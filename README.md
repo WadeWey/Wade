@@ -6,7 +6,7 @@
 <!-- 黄金价格 -->
 <a href="http://www.icbc.com.cn/ICBCDynamicSite/Charts/AccGold.aspx?dataType=0&dataId=901&" rel="nofollow">黄金价格</a><br>
 <!-- 彩票结果 -->
-<a href="http://www.ruidengkeji.com/inst/TC64.pdf" rel="nofollow">彩票结果</a><br>
+<a href="https://www.zhcw.com/kjxx/" rel="nofollow">彩票结果</a><br>
 <!-- 智能洗车 -->
 <a href="http://cloud.cheyujia.cn/wechat/login/index" rel="nofollow">智能洗车</a><br>
 <!-- 永辉超市 -->
