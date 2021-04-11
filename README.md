@@ -15,7 +15,6 @@
 <a href="http://www.ruidengkeji.com/inst/TC64.pdf" rel="nofollow">功率测试说明</a><br>
 
 
-
 <!-- 永辉超市 股票脚步 -->
 <link href="//n3.sinaimg.cn/tech/66ceb6d9/20180608/stock.css" rel="stylesheet" type="text/css" />
 <script language="JavaScript" id="hq_data_id" src="//hq.sinajs.cn/list=sh601933" charset="gbk"></script>
@@ -25,3 +24,4 @@
 var strCode = "sh601933";
 show_quote(strCode,"stock");
 </script>
+
